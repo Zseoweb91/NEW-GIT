@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'CIAO PORCO DIO';
+        echo 'CIAO';
         ?>
     </body>
 </html>
